@@ -1,0 +1,107 @@
+body {
+  font-family: Verdana, Geneva, sans-serif;
+  font-size: 30px;
+  margin: 0 auto;
+  max-width: 960px;
+  padding: 40px 10px;
+  background: #162d26;
+  color: #fff;
+  font-weight: 300;
+}
+
+h1 {
+  text-align: center;
+  margin: 1% 0 1% 0;
+}
+h2 {
+  text-align: center;
+  margin: 1% 0 1% 0;
+  font-size: 20px;
+}
+
+#textbox {
+  margin: 30px auto 0;
+  display: block;
+  width: 850px;
+  height: 46px;
+  font-size: 30px;
+  text-align: center;
+  background: #163532;
+  border-radius: 6px;
+  color: white;
+  transition: 1s linear;
+}
+#emailbox {
+  margin: 30px auto 0;
+  display: block;
+  width: 550px;
+  height: 46px;
+  font-size: 30px;
+  text-align: center;
+  background: #163532;
+  border-radius: 6px;
+  color: white;
+  transition: 1s linear;
+}
+#bugdec {
+  margin: 30px auto 0;
+  display: block;
+  width: 550px;
+  height: 100px;
+  font-size: 16px;
+  background: #163532;
+  border-radius: 6px;
+  color: white;
+  transition: 1s linear;
+}
+
+#button {
+  background: #163532;
+  border: 0;
+  color: #fff;
+  font-size: 20px;
+  padding: 1em 2em;
+  cursor: pointer;
+  margin: 0 auto 60px;
+  display: block;
+  text-align: center;
+  border-radius: 6px;
+  font-weight: bold;
+}
+#bugsum {
+  background: #163532;
+  border: 0;
+  color: #fff;
+  font-size: 20px;
+  padding: 1em 2em;
+  cursor: pointer;
+  margin: 0 auto 60px;
+  display: block;
+  text-align: center;
+  border-radius: 6px;
+  font-weight: bold;
+}
+p {
+  font-size: 13px;
+  text-align: center;
+}
+#button:hover {
+  background-color: #107056;
+  font-weight: bold;
+}
+#foother {
+  font-size: 16px;
+  padding: 20px;
+  margin-top: auto;
+  background-color: #193937;
+  text-align: center;
+  display: block;
+}
+a {
+  color: white;
+  font-weight: bold;
+  text-decoration: none;
+}
+a:hover {
+  color: #d6d6d6;
+}
